@@ -14,6 +14,7 @@ public class ExamPortal {
 
         // Simulated username/password
         final String correctUser = "student";
+
         final String correctPass = "1234";
         int totalQuestions = 2;
         int answered = 0;
