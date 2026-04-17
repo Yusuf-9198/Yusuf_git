@@ -3,6 +3,9 @@ package college;
 import java.util.Scanner;
 
 public class Exception {
+    public Exception(String msg) {
+    }
+
     public static int div(int a, int b) {
         return a / b;
     }

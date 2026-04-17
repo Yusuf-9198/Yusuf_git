@@ -15,7 +15,7 @@ class Triangle extends Shape {
     }
 }
 
-class Main {
+class Maain {
     public static void main(String[] args) {
         Shape s = new Shape();
         System.out.println("Circle: " + s.area(2));

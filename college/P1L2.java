@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class P1L2 {
     public static void main(String[] args) {
         System.out.print("Enter Number of terms you want :");
-        Scanner sc=new Scanner (System.in);
+        Scanner sc= new Scanner (System.in);
         int n=sc.nextInt();
         int s=0,t=1 ,m;
         if(n==1) {

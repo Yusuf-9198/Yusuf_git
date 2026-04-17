@@ -9,7 +9,7 @@ public class NestedTryCatch {
             } catch (ArrayIndexOutOfBoundsException e) {
                 System.out.println("Inner catch: " + e);
             }
-            int div = 10 / 0;
+            // int div = 10 / 0;
         } catch (ArithmeticException e) {
             System.out.println("Outer catch: " + e);
         }

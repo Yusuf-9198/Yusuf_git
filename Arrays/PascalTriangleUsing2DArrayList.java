@@ -44,6 +44,7 @@ public class PascalTriangleUsing2DArrayList {
         ans.add(l1);   
         }
         
+       
         return ans;
 
     }
@@ -52,5 +53,5 @@ public class PascalTriangleUsing2DArrayList {
          System.out.println(triangle);
     
  }
-    
+
 }
