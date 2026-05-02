@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c440e08-7684-4e22-bb24-2f57c498a9e4" name="Changes" comment="resume">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../college/out/production/college/college/college.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/MatrixInWaveform.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/MatrixInWaveform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Programes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Daily_leetcode/Daily_leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToggleCharcter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToggleCharcter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/AgeValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/../college/Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../college/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/NestedTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../college/NestedTryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/P1L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../college/P1L2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/Remaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/../college/Remaining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../college/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Advqance/Advanced Java Skill Up.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Advqance/T1lWjyGm1J - LeetCode Profile.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Advqance/pwskills.com-dashboard-mycourse-.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Arrays/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Arrays/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Arrays/Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Strings.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Arrays/out/production/Arrays/Arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Arrays/out/production/Arrays/Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Arrays/out/production/Arrays/Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Arrays/out/production/Arrays/Arrays/Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../college/college.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Java Programes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Strings - 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programes/Strings/Strings - 1.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yusuf-9198&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yusuf-9198/Yusuf_git&quot;,
+    &quot;accountId&quot;: &quot;619ac835-219d-4d71-97b9-b4bd5873d1d1&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3BOZJGq7BHHfWTcNF2jPjsUQ9Me" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CompressedString.executor": "Run",
+    "Application.MostOccurrence.executor": "Run",
+    "Application.Sorting.executor": "Run",
+    "Application.StringWithMaxValue.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Enought/Java Programes/Strings",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.StringWithMaxValue">
+    <configuration name="CompressedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.CompressedString" />
+      <module name="Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.MostOccurrence" />
+      <module name="Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Sorting" />
+      <module name="Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringWithMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.StringWithMaxValue" />
+      <module name="Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringWithMaxValue" />
+        <item itemvalue="Application.CompressedString" />
+        <item itemvalue="Application.MostOccurrence" />
+        <item itemvalue="Application.Sorting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c440e08-7684-4e22-bb24-2f57c498a9e4" name="Changes" comment="" />
+      <created>1774362004541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774362004541</updated>
+      <workItem from="1774362005739" duration="1083000" />
+      <workItem from="1774363147888" duration="222000" />
+      <workItem from="1774373312096" duration="1169000" />
+      <workItem from="1774528377559" duration="2813000" />
+      <workItem from="1774531353512" duration="804000" />
+      <workItem from="1774533777053" duration="11199000" />
+      <workItem from="1774695703633" duration="2633000" />
+      <workItem from="1774793007514" duration="1548000" />
+      <workItem from="1776418539418" duration="10000" />
+    </task>
+    <task id="LOCAL-00001" summary="resume">
+      <option name="closed" value="true" />
+      <created>1776423682933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776423682933</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resume" />
+    <option name="LAST_COMMIT_MESSAGE" value="resume" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CompressedString.java</url>
+          <line>4</line>
+          <properties class="Strings.CompressedString" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

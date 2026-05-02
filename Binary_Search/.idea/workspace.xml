@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4d3da14-95e8-49be-b8a3-3419f3c195b9" name="Changes" comment="01 Mayy" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yusuf-9198&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yusuf-9198/Yusuf_git&quot;,
+    &quot;accountId&quot;: &quot;619ac835-219d-4d71-97b9-b4bd5873d1d1&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3CiGBBaFZLn8zRzJyX86g8r3FEa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.FindKCloestElement.executor": "Run",
+    "Application.FirstAndLastOccurence.executor": "Run",
+    "Application.KthMissingPositiveNum.executor": "Run",
+    "Application.PeakIndex.executor": "Run",
+    "Application.SearchInRotatedArray.executor": "Run",
+    "Application.SmallestDivisor.executor": "Run",
+    "Application.Sqrt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Enought/Java Programes/Binary_Search",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propDebugger",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.KthMissingPositiveNum">
+    <configuration name="FindKCloestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindKCloestElement" />
+      <module name="Binary_Search" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthMissingPositiveNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/out/production/Binary_Search" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="KthMissingPositiveNum" />
+      <option name="PROGRAM_PARAMETERS" value="$MAVEN_REPOSITORY$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchInRotatedArray" />
+      <module name="Binary_Search" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmallestDivisor" />
+      <module name="Binary_Search" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Sqrt" />
+      <module name="Binary_Search" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KthMissingPositiveNum" />
+        <item itemvalue="Application.SmallestDivisor" />
+        <item itemvalue="Application.FindKCloestElement" />
+        <item itemvalue="Application.SearchInRotatedArray" />
+        <item itemvalue="Application.Sqrt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4d3da14-95e8-49be-b8a3-3419f3c195b9" name="Changes" comment="" />
+      <created>1776860838727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776860838727</updated>
+      <workItem from="1777712904275" duration="12000" />
+      <workItem from="1777713673353" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="01 May">
+      <option name="closed" value="true" />
+      <created>1777657267107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777657267107</updated>
+    </task>
+    <task id="LOCAL-00002" summary="01 Mayy">
+      <option name="closed" value="true" />
+      <created>1777657408968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777657408968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resume" />
+    <MESSAGE value="01 May" />
+    <MESSAGE value="01 Mayy" />
+    <option name="LAST_COMMIT_MESSAGE" value="01 Mayy" />
+  </component>
+</project>
