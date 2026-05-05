@@ -10,7 +10,7 @@ class Node{
     }
 }
 public class LLBasics {
-    public static void main(String[] args) {
+     static void main(String[] args) {
         Node a =new Node(10);
         System.out.println(a);
         System.out.println(a.val);

@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class Fabonacii {
     public int fib(int n) {
         int nth =0;
-        if(n<=0) return n;
-        else if(n==1) return 1;
+        if(n<=1) return n;
         else{
             nth = fib(n-2) + fib(n-1);
 
