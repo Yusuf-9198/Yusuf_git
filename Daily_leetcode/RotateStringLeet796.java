@@ -5,7 +5,7 @@ A shift on s consists of moving the leftmost character of s to the rightmost pos
 
 For example, if s = "abcde", then it will be "bcdea" after one shift.
 */
-Public class RotateStringLeet796{
+public class RotateStringLeet796{
       // Approach 1: Brute Force (not efficient)
     // public boolean rotateString(String s, String goal) {
     //     int sLen = s.length();

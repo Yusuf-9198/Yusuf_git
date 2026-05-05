@@ -1,4 +1,3 @@
-package Daily_leetcode;
 
 public class finalValueAfterOperations {
     public int finalValueAfterOper(String[] arr) {

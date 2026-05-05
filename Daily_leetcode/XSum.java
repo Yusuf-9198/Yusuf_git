@@ -1,4 +1,3 @@
-package Daily_leetcode;
 
 // import java.util.*;
 // public class XSum {

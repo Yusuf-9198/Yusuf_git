@@ -1,4 +1,3 @@
-package Daily_leetcode;
 
 class Candy1 {
     public int candy(int[] rating) {
