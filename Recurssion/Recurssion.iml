@@ -4,10 +4,6 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Strings" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/Daily_leetcode/.idea/shelf" />
-      <excludeFolder url="file://$MODULE_DIR$/Daily_leetcode/out/production/Daily_leetcode/Daily_leetcode/.idea/shelf" />
-      <excludeFolder url="file://$MODULE_DIR$/sortingTechnique/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
