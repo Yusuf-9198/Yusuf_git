@@ -31,7 +31,7 @@ public class Main {
 
         // Method calls (runtime polymorphism)
         obj1.display();  // Output: Child method
-        obj1.fun();  
+//        obj1.fun();
         obj2.display();  // Output: Child method
         ((Child) obj1).fun();
 
