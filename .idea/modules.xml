@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advance_Sorting_Technique/Advance_Sorting_Technique.iml" filepath="$PROJECT_DIR$/Advance_Sorting_Technique/Advance_Sorting_Technique.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashSet_HashMap/HashSet_HashMap.iml" filepath="$PROJECT_DIR$/HashSet_HashMap/HashSet_HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Programes.iml" filepath="$PROJECT_DIR$/Java Programes.iml" />
     </modules>
