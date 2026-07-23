@@ -5,12 +5,13 @@ public class QuickSortAlgo {
         arr[j] = temp;
     }
     public static int partition(int[] arr , int lo , int hi){
-        int pivote = arr[lo], pInd = lo;// pivote Index
+        int pivote = arr[(lo + hi)/2], pInd = (lo + hi)/2;// pivote Index
         int smallCount = 0;
-        for (int i = lo+1; i <= hi; i++) {
+        for (int i = lo ; i <= hi; i++) {
+            if(i== (lo + hi)/2) continue;
             if(arr[i]<=pivote) smallCount++;
         }
-        int correctIndx = pInd + smallCount;
+        int correctIndx = lo + smallCount;
         // swap
         swap(arr,pInd,correctIndx);
         // partition { left me smaller and right me larger }
@@ -20,6 +21,7 @@ public class QuickSortAlgo {
             else if(arr[j]>pivote) j--;
             else if (arr[i] > pivote && arr[j] <= pivote) {
                 swap(arr,i,j);
+                i++;j--;
             }
         }
         return correctIndx;
