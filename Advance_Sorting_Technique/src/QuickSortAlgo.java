@@ -35,7 +35,7 @@ public class QuickSortAlgo {
     }
 
     static void main() {
-        int[] arr = {4,9,7,1,2,3,6,5,8};
+        int[] arr = {4,9,7,1,2,3,6,5,8,10};
         quickSort(arr,0,arr.length-1);
         for(int ele: arr){
             System.out.print(ele+ " ");
